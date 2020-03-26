@@ -130,7 +130,7 @@ publican.cfg
 /daemons/schedulerd/pacemaker-schedulerd
 /daemons/schedulerd/pacemaker-schedulerd.xml
 /doc/*/tmp/**
-/doc/*/publish
+#/doc/*/publish
 /doc/*.build
 /doc/*/en-US/Ap-*.xml
 /doc/*/en-US/Ch-*.xml
